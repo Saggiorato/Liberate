@@ -1,0 +1,15 @@
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\bin\Debug\netcoreapp2.0\Liberate.deps.json
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\bin\Debug\netcoreapp2.0\Liberate.runtimeconfig.json
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\bin\Debug\netcoreapp2.0\Liberate.runtimeconfig.dev.json
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\bin\Debug\netcoreapp2.0\Liberate.dll
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\bin\Debug\netcoreapp2.0\Liberate.pdb
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\obj\Debug\netcoreapp2.0\Liberate.AssemblyInfoInputs.cache
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\obj\Debug\netcoreapp2.0\Liberate.AssemblyInfo.cs
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\obj\Debug\netcoreapp2.0\Liberate.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\obj\Debug\netcoreapp2.0\Liberate.dll
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\obj\Debug\netcoreapp2.0\Liberate.pdb
+C:\Users\Alisson\Source\Workspaces\Liberate\Liberate\obj\Debug\netcoreapp2.0\Liberate.genruntimeconfig.cache

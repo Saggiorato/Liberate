@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="jogo">
+    <span>FPS:{{FPSReal}} Frame Atual: {{FrameAtual}}</span>  <span>MouseClickX: {{MouseClickX}}</span> <span>MouseClickY: {{MouseClickY}}</span>
+    <canvas id="myCanvas" width="5000" height="5000" style="border:1px solid #000000;" v-on:click="Atirar"></canvas>
+</div>
+
+@section Scripts{
+    <script src="~/js/vue/jogo/jogo.js"></script>
+}
